@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.7.1",
+      "destination": "wwwroot/libs/jquery"
+    },
+    {
+      "provider": "unpkg",
+      "library": "@microsoft/signalr@6.0.6",
+      "destination": "wwwroot/libs/signalr"
+    },
+    {
+      "library": "bootstrap@5.3.2",
+      "destination": "wwwroot/libs/bootstrap"
+    }
+  ]
+}

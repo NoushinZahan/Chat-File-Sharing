@@ -1,0 +1,135 @@
+﻿@{
+    ViewData["Title"] = "Chat";
+}
+
+<h2>Chat & File Sharing</h2>
+<div class="row">
+    <div class="col-12">
+        <div id="user" class="col-6 offset-3" style="display:none">
+
+            <div class="input-group mb-3">
+                <input type="text" id="u" placeholder="Username..." class="form-control" />
+                <button id="join" type="button" class="btn btn-primary btn-sm">Join</button>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+<div class="row" id="chat" style="display:none">
+    <div class="col-3">
+        <h4>Connected user</h4>
+        <ul class="list-group" id="ulist"></ul>
+    </div>
+    <div class="col-9">
+
+        <div class="input-group">
+            <input type="text" id="m" class="form-control" placeholder="message..." aria-label="message">
+            <button id="send" class="btn btn-outline-secondary" type="button">Send</button>
+            <button id="upload" class="btn btn-outline-secondary" type="button">Browse</button>
+        </div>
+        <h4>Messages</h4>
+        <div>
+            <ul id="messages" class="list-group"></ul>
+        </div>
+        <h4>File shares</h4>
+        <div id="pics" class="border-1 rounded-1">
+        </div>
+    </div>
+    <input type="file" id="pic" style="display:none" accept=".jpg,.gif,.png,.jpeg" />
+</div>
+@section styles{
+    <link href="~/libs/icons/font/bootstrap-icons.css" rel="stylesheet" />
+    <style>
+        #messages, #pics {
+            min-height: 4rem;
+        }
+
+        #pics {
+            display: grid;
+            grid-template-columns: 20% 20% 20% 20%;
+            justify-content: flex-start;
+            gap: 10px;
+        }
+
+        .box {
+            padding: inherit;
+            margin: 0;
+            width: 200px;
+        }
+
+            .box img {
+                width: 200px;
+                height: 200px;
+                border-top-left-radius: 5px;
+                border-top-right-radius: 5px;
+            }
+    </style>
+}
+
+@section scripts {
+    <script src="~/libs/signalr/dist/browser/signalr.js"></script>
+    <script src="~/libs/jquery/jquery.js"></script>
+    <script>
+        var con = new signalR.HubConnectionBuilder().withUrl("/messageHub").build();//1
+        con.on("connection", msg => {
+            console.log(msg);
+        });
+        con.on("message", msg => { //6
+            console.log(msg);
+            $("#messages").append(`<li class="list-group-item">${msg.sender}: ${msg.message}</li>`)
+
+        });
+        con.on("userlist", function (xs) { //4
+            console.log(xs.length);
+            //$("#ulist").clear();
+            for (let i = 0; i < xs.length; i++) {
+                console.log(xs[i])
+                $("#ulist").append(`<li class="list-group-item">${xs[i]}</li>`)
+            }
+            $("#user").hide();
+            $("#chat").show();
+        });
+        con.on("uploaded", data => {
+            console.log(data);
+            $('#pics').append(`<div class="box">
+                                       <img src='/Uploads/${data.file}' />
+                                <div class="text-center">
+                                    Shared by ${data.sender}
+                                </div>
+                                <div class="text-center"><a target="_blank" href="/Uploads/${data.file}">Download</a></div>
+                            </div>`);
+        });
+
+        con.start().then(function () { //2
+            // console.log("success");
+            $("#user").show();
+            //con.invoke("SendAllAsync", "Hi everyone")
+            $("#join").click(() => {//3
+                con.invoke("JoinAsync", $("#u").val());
+            });
+            $("#send").click(() => { //5
+                con.invoke("SendAllAsync", $("#m").val());
+                $("#m").val('');
+            });
+            $("#upload").click(() => {//7
+                $("#pic").trigger('click');
+            });
+            $("#pic").change(() => {//7
+                //console.log('change');
+                //console.log(document.getElementById("pic").files[0]);
+                var file = document.getElementById("pic").files[0];
+                var reader = new FileReader();
+                reader.onload = () => {
+                    var data = { Filename: file.name, Content: reader.result };
+                    console.log(data);
+                    con.invoke("UploadAsync", data);
+                }
+                reader.readAsDataURL(file);
+            });
+        }).catch(function (err) {
+            return console.error(err.toString());
+        });
+
+    </script>
+}

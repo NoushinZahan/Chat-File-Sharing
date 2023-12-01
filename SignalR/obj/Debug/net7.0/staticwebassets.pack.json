@@ -1,0 +1,1369 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\Uploads\\1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1.jpg"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\Uploads\\2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2.jpg"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\Uploads\\3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3.jpg"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\Uploads\\4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4.jpg"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\README.md",
+      "PackagePath": "staticwebassets\\libs\\signalr\\README.md"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\AbortController.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\AbortController.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\AbortController.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Errors.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Errors.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Errors.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Errors.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\FetchHttpClient.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HeaderNames.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HeaderNames.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HttpClient.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HttpClient.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HttpClient.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HttpConnection.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HttpConnection.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HubConnection.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HubConnection.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HubConnection.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\IConnection.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\IConnection.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\IConnection.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\IHubProtocol.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\ILogger.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\ILogger.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\ILogger.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\IRetryPolicy.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\ITransport.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\ITransport.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\ITransport.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Loggers.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Loggers.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Loggers.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\LongPollingTransport.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Polyfills.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Polyfills.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Polyfills.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Stream.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Stream.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Stream.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Stream.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Subject.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Subject.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Subject.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Subject.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\TextMessageFormat.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Utils.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Utils.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\Utils.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\Utils.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\WebSocketTransport.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\XhrHttpClient.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\AbortController.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\AbortController.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\AbortController.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\AbortController.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\AbortController.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\DefaultHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\DefaultHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Errors.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Errors.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Errors.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Errors.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Errors.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Errors.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\FetchHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\FetchHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\FetchHttpClient.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HandshakeProtocol.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HandshakeProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HeaderNames.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HeaderNames.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HeaderNames.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HeaderNames.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HttpClient.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HttpClient.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HttpClient.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HttpClient.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HttpConnection.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HttpConnection.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HttpConnection.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HttpConnection.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HubConnection.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HubConnection.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HubConnection.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HubConnection.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HubConnection.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IConnection.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IConnection.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IConnection.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IConnection.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IConnection.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IHubProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IHubProtocol.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ILogger.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ILogger.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ILogger.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ILogger.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ILogger.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IRetryPolicy.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IRetryPolicy.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IRetryPolicy.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ITransport.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ITransport.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ITransport.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ITransport.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ITransport.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\JsonHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\JsonHubProtocol.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Loggers.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Loggers.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Loggers.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Loggers.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Loggers.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\LongPollingTransport.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\LongPollingTransport.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\LongPollingTransport.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Polyfills.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Polyfills.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Polyfills.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Polyfills.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Polyfills.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Stream.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Stream.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Stream.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Stream.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Stream.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Stream.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Subject.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Subject.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Subject.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Subject.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Subject.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Subject.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\TextMessageFormat.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\TextMessageFormat.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\TextMessageFormat.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Utils.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Utils.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Utils.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Utils.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\Utils.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\Utils.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\WebSocketTransport.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\WebSocketTransport.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\WebSocketTransport.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\XhrHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\XhrHttpClient.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\XhrHttpClient.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\libs\\signalr\\package.json"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\AbortController.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\AbortController.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\DefaultHttpClient.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\DefaultHttpClient.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\DefaultReconnectPolicy.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\Errors.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\Errors.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\FetchHttpClient.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\FetchHttpClient.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\HandshakeProtocol.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\HandshakeProtocol.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\HeaderNames.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\HeaderNames.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\HttpClient.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\HttpClient.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\HttpConnection.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\HttpConnection.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\HubConnection.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\HubConnection.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\HubConnectionBuilder.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\HubConnectionBuilder.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\IConnection.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\IConnection.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\IHttpConnectionOptions.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\IHttpConnectionOptions.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\IHubProtocol.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\IHubProtocol.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\ILogger.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\ILogger.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\IRetryPolicy.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\IRetryPolicy.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\ITransport.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\ITransport.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\JsonHubProtocol.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\JsonHubProtocol.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\Loggers.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\Loggers.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\LongPollingTransport.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\LongPollingTransport.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\Polyfills.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\Polyfills.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\ServerSentEventsTransport.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\ServerSentEventsTransport.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\Stream.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\Stream.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\Subject.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\Subject.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\TextMessageFormat.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\TextMessageFormat.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\Utils.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\Utils.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\WebSocketTransport.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\WebSocketTransport.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\XhrHttpClient.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\XhrHttpClient.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "D:\\MAUI\\SignalR\\SignalR\\SignalR\\wwwroot\\libs\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\libs\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SignalR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SignalR.props",
+      "PackagePath": "build\\SignalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalR.props",
+      "PackagePath": "buildMultiTargeting\\SignalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SignalR.props",
+      "PackagePath": "buildTransitive\\SignalR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
